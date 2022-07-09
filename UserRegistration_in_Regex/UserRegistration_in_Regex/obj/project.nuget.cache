@@ -1,8 +1,20 @@
 {
   "version": 2,
-  "dgSpecHash": "oQ3LKaCYHM9/sz8M2663p7CRSahprsUCLOVGULMxTWpATcGwmnB0+CF6yFByxotIWynVdsuZwSYZPd7jaqGAMQ==",
+  "dgSpecHash": "DKGtd+keap93ptPqg+nuGox0SKG3gTj9fPepgk2LlsU82AN7EpPmWgeo53Gmtr63se69fvOLM6RutfcWghDD3Q==",
   "success": true,
   "projectFilePath": "D:\\BridgeLabz\\UserRegistration_in_Regex\\UserRegistration_in_Regex\\UserRegistration_in_Regex\\UserRegistration_in_Regex.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\balla\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\balla\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.0\\microsoft.extensions.dependencyinjection.5.0.0.nupkg.sha512",
+    "C:\\Users\\balla\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\balla\\.nuget\\packages\\microsoft.extensions.logging\\5.0.0\\microsoft.extensions.logging.5.0.0.nupkg.sha512",
+    "C:\\Users\\balla\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0\\microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\balla\\.nuget\\packages\\microsoft.extensions.options\\5.0.0\\microsoft.extensions.options.5.0.0.nupkg.sha512",
+    "C:\\Users\\balla\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
+    "C:\\Users\\balla\\.nuget\\packages\\nlog\\5.0.1\\nlog.5.0.1.nupkg.sha512",
+    "C:\\Users\\balla\\.nuget\\packages\\nlog.config\\4.7.15\\nlog.config.4.7.15.nupkg.sha512",
+    "C:\\Users\\balla\\.nuget\\packages\\nlog.extensions.logging\\5.0.1\\nlog.extensions.logging.5.0.1.nupkg.sha512",
+    "C:\\Users\\balla\\.nuget\\packages\\nlog.schema\\4.7.15\\nlog.schema.4.7.15.nupkg.sha512"
+  ],
   "logs": []
 }
